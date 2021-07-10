@@ -12,6 +12,7 @@
 | **FET**      | Field-effect transistor                     |
 | **FTDI**     | Future Technology Devices International     |
 | **GND**      | Ground                                      |
+| **HDD**      | Hard disk drive                             |
 | **H**        | Henry                                       |
 | **I2C**      | Inter-Integrated Circuit                    |
 | **JFET**     | Junction-gate FET                           |
@@ -23,6 +24,7 @@
 | **RISC**     | Reduced instruction set computer            |
 | **ROM**      | Read-only memory                            |
 | **RTC**      | Real-time clock                             |
+| **SSD**      | Solid-state drive                           |
 | **UART**     | Universal asynchronous receiver-transmitter |
 | **USB**      | Universal serial bus                        |
 | **Vcc**      | Voltage (continuous current)                |
