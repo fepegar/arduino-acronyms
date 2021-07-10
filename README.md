@@ -1,6 +1,6 @@
 # Abbreviations in the Arduino world
 
-| **Abbreviation** | **Meaning**                                 |
+| Abbreviation | Meaning                                 |
 | ---------------- | ------------------------------------------- |
 | **AVR**          | Alf and Vegard's RISC processor?            |
 | **BJT**          | Bipolar junction transistor                 |
