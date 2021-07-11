@@ -15,9 +15,11 @@
 | **FET**      | Field-effect transistor                     |
 | **FTDI**     | Future Technology Devices International     |
 | **GND**      | Ground                                      |
+| **GPIO**     | General-purpose IO                          |
 | **HDD**      | Hard disk drive                             |
 | **H**        | Henry                                       |
 | **I2C**      | Inter-Integrated Circuit                    |
+| **IO**       | Input/output                                |
 | **JFET**     | Junction-gate FET                           |
 | **LED**      | Light-emitting diode                        |
 | **MOS**      | Metal–oxide–semiconductor                   |
