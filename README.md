@@ -12,8 +12,10 @@
 | **EPROM**    | Erasable programmable ROM                   |
 | **EEPROM**   | Electrically erasable programmable ROM      |
 | **EMF**      | Electromotive force                         |
+| **ESR**      | Equivalent series resistance                |
 | **F**        | Farad                                       |
 | **FET**      | Field-effect transistor                     |
+| **FQBN**     | Fully qualified board name                  |
 | **FTDI**     | Future Technology Devices International     |
 | **GND**      | Ground                                      |
 | **GPIO**     | General-purpose IO                          |
