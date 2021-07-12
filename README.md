@@ -49,6 +49,7 @@
 | **SS**       | Slave select                                |
 | **SSD**      | Solid-state drive                           |
 | **SWD**      | Serial wire debug                           |
+| **TTL**      | Transistor–transistor logic                 |
 | **UART**     | Universal asynchronous receiver-transmitter |
 | **USB**      | Universal serial bus                        |
 | **Vcc**      | Voltage (continuous current)                |
