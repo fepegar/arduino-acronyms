@@ -5,17 +5,21 @@
 | **AC**       | Alternating current                         |
 | **AVR**      | Alf and Vegard's RISC processor?            |
 | **AVRDUDE**  | AVR downloader/uploader                     |
+| **AWG**      | American wire gauge                         |
+| **BLE**      | Bluetooth low energy                        |
 | **BJT**      | Bipolar junction transistor                 |
 | **CMOS**     | Complementary MOS                           |
 | **DC**       | Direct current                              |
 | **DIP**      | Dual in-line package                        |
 | **DMM**      | Digital multimeter                          |
+| **DRC**      | Design rule check                           |
 | **EPROM**    | Erasable programmable ROM                   |
 | **EEPROM**   | Electrically erasable programmable ROM      |
 | **EMF**      | Electromotive force                         |
 | **ESR**      | Equivalent series resistance                |
 | **F**        | Farad                                       |
 | **FET**      | Field-effect transistor                     |
+| **FPC**      | Flexible printed circuit                    |
 | **FQBN**     | Fully qualified board name                  |
 | **FTDI**     | Future Technology Devices International     |
 | **GND**      | Ground                                      |
@@ -39,6 +43,8 @@
 | **PCB**      | Printed circuit board                       |
 | **PCI**      | Peripheral component interconnect           |
 | **PSU**      | Power supply unit                           |
+| **PTH**      | Plated through-hole                         |
+| **PV**       | Photovoltaic                                |
 | **QFN**      | Quad-flat no-leads                          |
 | **RAM**      | Random access memory                        |
 | **RISC**     | Reduced instruction set computer            |
@@ -53,9 +59,14 @@
 | **SS**       | Slave select                                |
 | **SSD**      | Solid-state drive                           |
 | **SSOP**     | Shrink small-outline package                |
+| **STC**      | Standard test conditions                    |
 | **SWD**      | Serial wire debug                           |
+| **SWG**      | Standard wire gauge                         |
+| **TRIAC**    | Triode for dlternating current              |
 | **TTL**      | Transistor–transistor logic                 |
 | **TWI**      | Twin wire interface                         |
 | **UART**     | Universal asynchronous receiver-transmitter |
 | **USB**      | Universal serial bus                        |
+| **UXGA**     | Ultra extended graphics array               |
 | **Vcc**      | Voltage (continuous current)                |
+| **ZIF**      | Zero insertion force                        |
