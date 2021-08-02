@@ -10,8 +10,10 @@
 | **BJT**      | Bipolar junction transistor                 |
 | **CMOS**     | Complementary MOS                           |
 | **DC**       | Direct current                              |
+| **DCR**      | DC resistance                               |
 | **DIP**      | Dual in-line package                        |
 | **DMM**      | Digital multimeter                          |
+| **DPDT**     | Double pole double throw                    |
 | **DRC**      | Design rule check                           |
 | **EPROM**    | Erasable programmable ROM                   |
 | **EEPROM**   | Electrically erasable programmable ROM      |
@@ -30,6 +32,7 @@
 | **ICSP**     | In-circuit serial programming               |
 | **IDE**      | Integrated development environment          |
 | **IO**       | Input/output                                |
+| **IoT**      | Internet of things                          |
 | **ISP**      | In-system programming                       |
 | **JFET**     | Junction-gate FET                           |
 | **LED**      | Light-emitting diode                        |
@@ -40,6 +43,7 @@
 | **MOSI**     | Master out slave in                         |
 | **MPPT**     | Maximum power point tracking                |
 | **OLED**     | Organic LED                                 |
+| **OTA**      | Over the air                                |
 | **PCB**      | Printed circuit board                       |
 | **PCI**      | Peripheral component interconnect           |
 | **PSU**      | Power supply unit                           |
@@ -56,6 +60,7 @@
 | **SMT**      | Surface-mounted technology                  |
 | **SOIC**     | Small outline integrated circuit            |
 | **SPI**      | Serial peripheral interface                 |
+| **SPST**     | Single pole single throw                    |
 | **SS**       | Slave select                                |
 | **SSD**      | Solid-state drive                           |
 | **SSOP**     | Shrink small-outline package                |
