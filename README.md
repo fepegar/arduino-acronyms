@@ -20,6 +20,7 @@
 | **EPROM**    | Erasable programmable ROM                               |
 | **EEPROM**   | Electrically erasable programmable ROM                  |
 | **EMF**      | Electromotive force                                     |
+| **ESD**      | Electrostatic discharge                                 |
 | **ESR**      | Equivalent series resistance                            |
 | **F**        | Farad                                                   |
 | **FET**      | Field-effect transistor                                 |
