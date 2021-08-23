@@ -6,6 +6,7 @@
 | **AVR**      | Alf and Vegard's RISC processor?                        |
 | **AVRDUDE**  | AVR downloader/uploader                                 |
 | **AWG**      | American wire gauge                                     |
+| **BCD**      | Binary-coded decimal                                    |
 | **BLE**      | Bluetooth low energy                                    |
 | **BJT**      | Bipolar junction transistor                             |
 | **CMOS**     | Complementary MOS                                       |
@@ -62,6 +63,7 @@
 | **SCK**      | Serial clock                                            |
 | **SMD**      | Surface-mounted device                                  |
 | **SMT**      | Surface-mounted technology                              |
+| **SoC**      | System on a chip                                        |
 | **SOIC**     | Small outline integrated circuit                        |
 | **SPI**      | Serial peripheral interface                             |
 | **SPST**     | Single pole single throw                                |
