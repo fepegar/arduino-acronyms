@@ -18,6 +18,7 @@
 | **DNC**      | Do not connect                                          |
 | **DPDT**     | Double pole double throw                                |
 | **DRC**      | Design rule check                                       |
+| **DVI**      | Digital visual interface                                |
 | **EPROM**    | Erasable programmable ROM                               |
 | **EEPROM**   | Electrically erasable programmable ROM                  |
 | **EMF**      | Electromotive force                                     |
@@ -28,10 +29,12 @@
 | **FPC**      | Flexible printed circuit                                |
 | **FQBN**     | Fully qualified board name                              |
 | **FTDI**     | Future Technology Devices International                 |
+| **GDDR**     | Graphics DDR                                            |
 | **GND**      | Ground                                                  |
 | **GPIO**     | General-purpose IO                                      |
-| **HDD**      | Hard disk drive                                         |
 | **H**        | Henry                                                   |
+| **HDD**      | Hard disk drive                                         |
+| **HDMI**     | High-definition multimedia interface                    |
 | **I2C**      | Inter integrated circuit                                |
 | **ICSP**     | In-circuit serial programming                           |
 | **IDE**      | Integrated development environment                      |
@@ -62,11 +65,13 @@
 | **RTC**      | Real-time clock                                         |
 | **SAE**      | Society of Automotive Engineers                         |
 | **SCK**      | Serial clock                                            |
+| **SDRAM**    | Synchronous dynamic random-access memory                |
 | **SMD**      | Surface-mounted device                                  |
 | **SMT**      | Surface-mounted technology                              |
 | **SoC**      | System on a chip                                        |
 | **SOIC**     | Small outline integrated circuit                        |
 | **SPI**      | Serial peripheral interface                             |
+| **SPIFFS**   | SPI flash file system                                   |
 | **SPST**     | Single pole single throw                                |
 | **SRAM**     | Static RAM                                              |
 | **SS**       | Slave select                                            |
